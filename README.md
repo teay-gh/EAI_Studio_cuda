@@ -23,7 +23,9 @@ EAI Studio 是一个 Windows 桌面应用，把大模型微调的整条链路收
 
 开始用：解压后双击 `Start.bat`。第一次会引导你把运行环境装好（点一次「开始安装」），装完自动进入主界面；以后每次双击直接打开。界面中文 / English 随时切换，首次安装需要联网，之后可以完全离线使用。
 
-此版本为 CUDA 版本，需要 NVIDIA 显卡与较新的驱动；首次安装会按显卡算力自动挑 PyTorch 轮子（30 系及以上用 cu130，30 系以下用 cu126）。
+此版本为CUDA版本。
+
+问题反馈：teay_cha@foxmail.com
 ---
 
 # EAI Studio
@@ -51,7 +53,9 @@ What you can do with it:
 
 Getting started: extract the archive and double-click `Start.bat`. The first launch walks you through the runtime install (one click on "Install"), then opens the main window; later launches go straight in. The UI switches between Chinese and English at any time, and the first install is the only step that needs a network connection.
 
-This is the CUDA edition: it needs an NVIDIA GPU with a reasonably recent driver, and the first install picks the PyTorch wheel that matches your card (cu130 for RTX 30 series and newer, cu126 below that). 
+This is the CUDA edition.
+
+Issue feedback: teay_cha@foxmail.com
 ---
 
 Licensed under the MIT License.

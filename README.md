@@ -26,6 +26,7 @@ EAI Studio 是一个 Windows 桌面应用，把大模型微调的整条链路收
 此版本为CUDA版本。
 
 问题反馈：teay_cha@foxmail.com
+
 ---
 
 # EAI Studio
@@ -56,6 +57,7 @@ Getting started: extract the archive and double-click `Start.bat`. The first lau
 This is the CUDA edition.
 
 Issue feedback: teay_cha@foxmail.com
+
 ---
 
 Licensed under the MIT License.
